@@ -43,6 +43,16 @@ This is a research project to understand how people react to a critical mental h
 3. How do people perceive a critical mental health user/posts?
 4. What are the common themes in the reactions to a critical mental health user/posts?
 5. How do people react to a critical mental health user/posts from different demographics?
+6. How much social can cause to a critical mental health person?
+7. How do mental health user/posts affect the mental health of the people who see them?
+8. How do people react to a critical mental health user/posts from different social media platforms?
+9. Why mental health person are critical?
+10. Why people are critical to mental health person?
+11. How people can increase their mental health?
+12. How social media can help people to increase their mental health?
+13. How do people react to a critical mental health user/posts from different countries?
+14. How do we can help people who are critical to mental health person?
+15. How do we can reduce the social impact of a critical mental health person?
 
 ## Research Methodology
 
