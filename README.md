@@ -6,7 +6,9 @@ A report document for researching how people reacting a critical mental health u
 > This research still on going and the readme content can be changed at any time.
 
 > [!NOTE]
-> This research sample contain sensitive content.
+> This research sample contain sensitive content. All sensitive contents just for educational purposes only. All sensitive contents are removed Mar 14, 2026 13:23 (UTC+7).
+>
+> The researchers and Ponlponl123 are not support pedophilia and will continue to fight against it to the end.
 
 > [!NOTE]
 > Full published PDF report will be available when the research is completed and verified by the research team and third party person.
