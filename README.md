@@ -19,6 +19,8 @@ All data collected in this research is for educational purposes only. The data i
 
 All contents and sensitive contents are removed Mar 14, 2026 13:23 (UTC+7).
 
+**The researchers and Ponlponl123 are not support pedophilia and will continue to fight against it to the end.**
+
 ## Table of Contents
 
 - [Introduction](#introduction)
