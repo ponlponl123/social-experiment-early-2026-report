@@ -2,6 +2,33 @@
 
 A report document for researching how people reacting a critical mental health user/posts
 
+> [!NOTE]
+> This research sample contain sensitive content.
+
+> [!NOTE]
+> Full published PDF report will be available when the research is completed and verified by the research team and third party person.
+
+## Disclamer
+
+All data collected in this research is for educational purposes only. The data is not intended to be used for any other purpose.
+
+All contents and sensitive contents are removed Mar 14, 2026 13:23 (UTC+7).
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Research Questions](#research-questions)
+- [Research Methodology](#research-methodology)
+- [Research Findings](#research-findings)
+- [Definations](#definations)
+- [Research Sample](#research-sample)
+- [Research Limitations](#research-limitations)
+- [Risks and protective factors](#risks-and-protective-factors)
+- [Conclusion](#conclusion)
+- [Discussion](#discussion)
+- [Sample Environment](#sample-environment)
+- [References](#references)
+
 ## Introduction
 
 This is a research project to understand how people react to a critical mental health user/posts on social media. The research is ongoing and will be updated as new data is collected.
@@ -55,7 +82,7 @@ The research sample will be collected from reddit posts and comments.
 
 ### User back stories
 
-For those samples i've used the real user with digital footprint on internet (my personal account), and the stories was the user who is having there mental health and trying to fight with there in order to recover. and early janurary 2026, the user was having **online scams** <sup>[1](#online-scams)</sup> involving online shopping. that made him feel like he was a lot of stress and anxiety and was trying to find a way to recover. next after ~1 month, the user was having some **recovered by there family and friends by playing a game** <sup>[2](#related-why-mental-keep-continuing)</sup> with them. then early march 2026, was made there desktop environment looking glass on windows 11. so he was more happiness from find out non-build-in windows 11 customization and able to recover from the stress and anxiety by that method. and the [**first reddit post**](https://www.reddit.com/r/MoeDesktop/comments/1rm9ldi/my_windows/) was made on [r/MoeDesktop](https://www.reddit.com/r/MoeDesktop/) March 6, 2026. the user being used sensitive desktop wallpaper from this situation with no-comment but he so happy with upvotes and views from the community. then 7 days or a week later, the user was made another post on [r/desktops](https://www.reddit.com/r/desktops/) with same desktop environment. but now the user got [negative comments with highest views](#second-post-with-negative-comments-and-highest-views) from the community.
+For those samples i've used the real user with digital footprint on internet (my personal account), and the stories was the user who is having there mental health and trying to fight with there in order to recover. and early janurary 2026, the user was having **online scams** <sup>[1](#online-scams)</sup> involving online shopping. that made him feel like he was a lot of stress and anxiety and was trying to find a way to recover. next after ~1 month, the user was having some **recovered by there family and friends by playing a game** <sup>[2](#related-why-mental-keep-continuing)</sup> with them. then early march 2026, the user was made there desktop environment looking glass on windows 11. so he was more happiness from find out non-build-in windows 11 customization and able to recover from the stress and anxiety by that method. and the [**first reddit post**](https://www.reddit.com/r/MoeDesktop/comments/1rm9ldi/my_windows/) was made on [r/MoeDesktop](https://www.reddit.com/r/MoeDesktop/) March 6, 2026. the user being used sensitive desktop wallpaper from this situation with no-comment but the user was so happy with upvotes and views from the community. then 7 days or a week later, the user was made another post on [r/desktops](https://www.reddit.com/r/desktops/) with same desktop environment. but now the user got [negative comments with highest views](#second-post-with-negative-comments-and-highest-views) from the community.
 
 ### Related why mental keep continuing
 
@@ -83,19 +110,31 @@ The user was deleted there reddit account. The user was not able to recover from
 
 ### Post upvotes ratio
 
-![image](./images/reddit-post-sample-1-upvotes-ratio.png)
+- **Sample-1**
+  - Upvotes 84
+  - Downvotes 13
+  - Total 97
 
-<div align="center"><b>sample-1</b> updated on 2026-03-14 13:23 (UTC+7)</div>
+  ![image](./images/reddit-post-sample-1-upvotes-ratio.png)
 
-![image](./images/reddit-post-sample-2-upvotes-ratio.png)
+  <div align="center"><b>sample-1</b> updated on 2026-03-14 13:23 (UTC+7)</div>
 
-<div align="center"><b>sample-2</b> updated on 2026-03-14 13:23 (UTC+7)</div>
+- **Sample-2**
+  - Upvotes 69
+  - Downvotes 2
+  - Total 71
+
+  ![image](./images/reddit-post-sample-2-upvotes-ratio.png)
+
+  <div align="center"><b>sample-2</b> updated on 2026-03-14 13:23 (UTC+7)</div>
 
 ### Post views ratio
 
-![image](./images/reddit-post-sample-1-views-ratio.png)
+- **Sample-1**
 
-<div align="center"><b>sample-1</b> updated on 2026-03-14 13:23 (UTC+7)</div>
+  ![image](./images/reddit-post-sample-1-views-ratio.png)
+
+  <div align="center"><b>sample-1</b> updated on 2026-03-14 13:23 (UTC+7)</div>
 
 ## Research Limitations
 
