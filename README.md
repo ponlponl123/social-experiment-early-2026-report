@@ -208,4 +208,11 @@ So after im deleted that reddit account, then im tring to make other profile fro
 
 [7] https://www.who.int/news-room/fact-sheets/detail/mental-health-strengthening-our-response
 
-**The research is ongoing.**
+# Concluding
+
+Mental health is influenced by risks and protective factors at many levels. Individual factors—such as emotional skills, substance use, and genetics—can increase vulnerability, while social and environmental issues like poverty, violence, and inequality also raise the risk.
+
+And the researchers and Ponlponl123 are not support pedophilia and will continue to fight against it to the end.
+
+> [!NOTE]
+> **The research is ongoing.**
