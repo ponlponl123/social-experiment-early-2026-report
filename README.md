@@ -1,6 +1,11 @@
+> [!NOTE]
+> This research has been paused indefinitely by resolution of the research team and relevant experts.
+
 # social-experiment-early-2026-report (WIP)
 
 A report document for researching how people reacting a critical mental health user/posts to content that contain sensitive content.
+
+This research will contribute to advancements in medical science, computer science, law, and related fields.
 
 > [!NOTE]
 > This research still on going and the readme content can be changed at any time.
