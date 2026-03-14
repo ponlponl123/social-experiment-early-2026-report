@@ -39,7 +39,7 @@ The research sample will be collected from reddit posts and comments.
 
 2. This post is talking about a user as the same user as sample-1 is critical of mental health and want to share there desktop on r/desktops in another desktop environment.
 
-   ref: [https://www.reddit.com/r/desktops/comments/1rspyka/my/](https://www.reddit.com/r/desktops/comments/1rsr209/my_but_dark)
+   ref: [https://www.reddit.com/r/desktops/comments/1rsr209/my_but_dark](https://www.reddit.com/r/desktops/comments/1rsr209/my_but_dark)
 
 ### Post upvotes ratio
 
