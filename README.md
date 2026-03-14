@@ -3,6 +3,9 @@
 A report document for researching how people reacting a critical mental health user/posts
 
 > [!NOTE]
+> This research still on going and the readme content can be changed at any time.
+
+> [!NOTE]
 > This research sample contain sensitive content.
 
 > [!NOTE]
