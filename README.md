@@ -87,6 +87,10 @@ Mental health conditions include mental disorders and psychosocial disabilities 
 
 Mental health is a fundamental human right and a component of health.
 
+### Pedophilia
+
+Pedophilia, in the context of men who have sexually offended against children (PSOC), is characterized not by an exclusive preference for children, but by greater sexual interest in children combined with reduced sexual interest in adults.
+
 ## Research Sample
 
 The research sample will be collected from reddit posts and comments.
@@ -217,6 +221,8 @@ So after im deleted that reddit account, then im tring to make other profile fro
 [6] https://www.bangpakokrangsit.com/care_blog/view/117
 
 [7] https://www.who.int/news-room/fact-sheets/detail/mental-health-strengthening-our-response
+
+[8] https://www.sciencedirect.com/science/article/pii/S1359178922000945
 
 # Concluding
 
