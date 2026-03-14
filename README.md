@@ -28,6 +28,7 @@ All contents and sensitive contents are removed Mar 14, 2026 13:23 (UTC+7).
 - [Definations](#definations)
 - [Research Sample](#research-sample)
 - [Research Limitations](#research-limitations)
+- [Why r/desktops?](#why-r-desktops)
 - [Risks and protective factors](#risks-and-protective-factors)
 - [Conclusion](#conclusion)
 - [Discussion](#discussion)
@@ -155,6 +156,10 @@ The user was deleted there reddit account. The user was not able to recover from
 ## Research Limitations
 
 The research has some limitations. The research is limited to a specific social media platform. The research is limited to a specific time period. The research is limited to a specific user/posts.
+
+## Why [r/desktops](https://www.reddit.com/r/desktops/)?
+
+Because [r/desktops](https://www.reddit.com/r/desktops/) are medium-large reddit community with 40K weekly visitors and 1.5K weekly contributions. So the desktop community is having a lot of people who loved to share their desktop and discusting about their desktop/pc environment not for other purposes. and it will be more interesting and more engaging with pure thinking more than a community that discusses specifically because the shared desktop picture is the same subject but it's having sensitive content in there picture.
 
 ## Risks and protective factors
 
